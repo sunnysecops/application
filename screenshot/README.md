@@ -1,6 +1,5 @@
 Prerequisites:
    Following packages to be installed 
-
    1- Python3 : apt-get install python3
    2- pip3  : apt-get install python3-pip
    3- Selenium : pip3 install selenium boto3
@@ -22,6 +21,5 @@ How to use:
    1- Take the git clone of the repo
    2- Make following changes in screenshot.py file
         Edit the bucket_name to be used
-
    3- Execuet the script
         python3 screenshot.py
