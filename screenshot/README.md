@@ -16,7 +16,6 @@ Prerequisites:
    2- Create IAM role with S3 permissions
    3- Port 4444 to be open in SG
 
-
 How to use:
    1- Take the git clone of the repo
    2- Make following changes in screenshot.py file
